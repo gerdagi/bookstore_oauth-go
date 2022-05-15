@@ -1,2 +1,4 @@
+github.com/gerdagi/bookstore_utils-go v0.0.0-20220514084900-a1f2e538518a h1:0BgADXjKqsHDPi5yZ8zN/sSJTFsefvNyfsQfLyS8dC0=
+github.com/gerdagi/bookstore_utils-go v0.0.0-20220514084900-a1f2e538518a/go.mod h1:cMpd1V3vHWjh7lVdxePlZeAxD1Yn/2jNBfSoUg5BlkM=
 github.com/mercadolibre/golang-restclient v0.0.0-20170701022150-51958130a0a0 h1:EDOjA2IGgjSBlPlnW7CzBUo/o410SMiFh670jP29Kc4=
 github.com/mercadolibre/golang-restclient v0.0.0-20170701022150-51958130a0a0/go.mod h1:Z7qYja4aGk/RWl1yJtN1LXRvC7Hsbq8SEbqWWDrMqMs=
