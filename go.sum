@@ -1,4 +1,8 @@
-github.com/gerdagi/bookstore_utils-go v0.0.0-20220514084900-a1f2e538518a h1:0BgADXjKqsHDPi5yZ8zN/sSJTFsefvNyfsQfLyS8dC0=
-github.com/gerdagi/bookstore_utils-go v0.0.0-20220514084900-a1f2e538518a/go.mod h1:cMpd1V3vHWjh7lVdxePlZeAxD1Yn/2jNBfSoUg5BlkM=
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/gerdagi/bookstore_utils-go v0.0.0-20220530043744-c1337ac0dac2 h1:5myoJDYG+j5kxteWBNNzpUxPTJA1daRq+JzGh3+H3Lw=
+github.com/gerdagi/bookstore_utils-go v0.0.0-20220530043744-c1337ac0dac2/go.mod h1:pVz4N591yGD1Mghc4bbtcbCkQvHaBnHwunAIoqyI/Hg=
 github.com/mercadolibre/golang-restclient v0.0.0-20170701022150-51958130a0a0 h1:EDOjA2IGgjSBlPlnW7CzBUo/o410SMiFh670jP29Kc4=
 github.com/mercadolibre/golang-restclient v0.0.0-20170701022150-51958130a0a0/go.mod h1:Z7qYja4aGk/RWl1yJtN1LXRvC7Hsbq8SEbqWWDrMqMs=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+github.com/stretchr/testify v1.7.1 h1:5TQK59W5E3v0r2duFAb7P95B6hEeOyEnHRa8MjYSMTY=
+gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b h1:h8qDotaEPuJATrMmW04NCwg7v22aHH28wwpauUhK9Oo=
